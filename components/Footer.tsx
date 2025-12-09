@@ -110,8 +110,9 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="#pricing" 
-                  onClick={(e) => handleScroll(e, '#pricing')}
+                  href="https://wa.me/5563992940044" 
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="hover:text-brand-accent transition-colors"
                 >
                   Contato

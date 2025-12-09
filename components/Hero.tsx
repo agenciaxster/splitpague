@@ -41,9 +41,14 @@ const Hero: React.FC = () => {
             >
               Começar Agora
             </a>
-            <button className="px-8 py-4 bg-white/5 text-white font-medium border border-white/10 rounded-full hover:bg-white/10 transition-all flex items-center justify-center gap-2 backdrop-blur-sm hover:-translate-y-1">
+            <a 
+              href="https://wa.me/5563992940044"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-4 bg-white/5 text-white font-medium border border-white/10 rounded-full hover:bg-white/10 transition-all flex items-center justify-center gap-2 backdrop-blur-sm hover:-translate-y-1"
+            >
               Falar com Vendas <ChevronRight size={18} />
-            </button>
+            </a>
           </div>
         </div>
 

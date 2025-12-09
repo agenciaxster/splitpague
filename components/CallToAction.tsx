@@ -25,9 +25,14 @@ const CallToAction: React.FC = () => {
                 >
                     Criar Conta Grátis <ArrowRight size={18} />
                 </a>
-                <button className="w-full sm:w-auto px-8 py-4 bg-transparent border border-white/20 text-white font-medium rounded-lg hover:bg-white/5 transition-all">
+                <a 
+                  href="https://wa.me/5563992940044"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full sm:w-auto px-8 py-4 bg-transparent border border-white/20 text-white font-medium rounded-lg hover:bg-white/5 transition-all flex items-center justify-center"
+                >
                     Falar com Vendas
-                </button>
+                </a>
             </div>
         </div>
     </section>
