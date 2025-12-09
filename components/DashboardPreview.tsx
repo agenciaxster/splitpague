@@ -63,11 +63,11 @@ const DashboardPreview: React.FC = () => {
                     {"    "}recipient_id: <span className="text-green-400">'rec_seller_123'</span>,{"\n"}
                     {"    "}percentage: <span className="text-orange-400">85</span>,{"\n"}
                     {"    "}liable: <span className="text-purple-400">true</span>{"\n"}
-                    {"  "}}{"}"],{"\n"}
+                    {"  "}{"}"}],{"\n"}
                     {"  "}customer: {"{"}{"\n"}
                     {"    "}name: <span className="text-green-400">'João Silva'</span>,{"\n"}
                     {"    "}email: <span className="text-green-400">'joao@email.com'</span>{"\n"}
-                    {"  "}}{"}"}{"\n"}
+                    {"  "}{"}"}{"\n"}
                     {"}"});
                   </code>
                 </pre>
